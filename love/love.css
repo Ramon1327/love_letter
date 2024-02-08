@@ -382,9 +382,9 @@ body{
 }
 .boxLine{
     position: relative;
-    width: 1000px;
+    /* width: 1000px; */
     height: 100vh;
-    margin: auto;
+    /* margin: auto; */
     overflow: hidden;
     z-index: 50;
 }
